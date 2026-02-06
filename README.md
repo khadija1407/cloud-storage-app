@@ -37,4 +37,14 @@ cloud_storage/
 └ static/
 └ style.css
 
+## 📸 Screenshots
+
+![Home Page](screenshot1.png)
+![Upload Page](screenshot2.png)
+![File View](screenshot3.png)
+
+## 🎥 Demo Video
+
+[Click here to watch demo](vdo.mp4)
+
 
