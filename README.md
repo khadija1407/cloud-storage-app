@@ -1,50 +1,95 @@
-# cloud-storage-app
-Smart cloud file storage system built with Python (Flask) and modern UI.
-# ☁️ Smart Cloud Storage System
+# ☁️ Cloud File Storage System using AWS & Flask
 
-A cloud-based file storage web application developed using Python Flask.  
-This project allows users to upload, download, and manage files through a simple and secure interface.
+A web-based application that allows users to upload and store files securely on AWS S3 using Python Flask.
 
 ---
 
 ## 🚀 Features
-
-- 📤 Upload files
-- 📥 Download files
-- ❌ Delete files
-- 📂 View uploaded files
-- 🎨 Clean and responsive UI
+- Upload files to cloud
+- Store files in AWS S3
+- Simple and clean UI
+- Secure storage
+- Easy to use
 
 ---
 
-## 🛠️ Technologies Used
-
-- Python (Flask)
-- HTML5
-- CSS3
-- File Management System
-- Cloud-Ready Architecture
+## 🛠️ Tech Stack
+- Python
+- Flask
+- AWS S3
+- Boto3
+- HTML
+- CSS
 
 ---
 
 ## 📁 Project Structure
 
-cloud_storage/
-├ app.py
-├ uploads/
-├ templates/
-│ └ index.html
-└ static/
-└ style.css
+
+├── app.py
+├── index.html
+├── style.css
+├── screenshot1.png
+├── screenshot2.png
+├── screenshot3.png
+├── vdo.mp4
+└── README.md
+
+
+---
 
 ## 📸 Screenshots
 
-![Home Page](screenshot1.png)
-![Upload Page](screenshot2.png)
-![File View](screenshot3.png)
+### 🔹 Home Page
+![Home](screenshot1.png)
+
+### 🔹 Upload Page
+![Upload](screenshot2.png)
+
+### 🔹 File View
+![Files](screenshot3.png)
+
+---
 
 ## 🎥 Demo Video
 
 [Click here to watch demo](vdo.mp4)
 
+---
 
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+
+
+2. Install dependencies
+
+
+4. Open in browser
+
+
+---
+
+## ☁️ AWS Configuration
+
+- Create an S3 bucket
+- Configure AWS credentials
+- Add credentials in your environment
+- Connect using Boto3
+
+---
+
+## 👩‍💻 Developed By
+
+**Khadija Jamadar**
+
+Computer Science Student  
+AWS Certified Developer – Associate (In Progress)
+
+---
+
+## 🌟 Future Improvements
+- User authentication
+- Database integration
+- File sharing option
+- Better UI
